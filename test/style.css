@@ -1,0 +1,18 @@
+body {
+    color: blue;
+}
+
+h1 {
+    color: green;
+}
+
+
+.big{
+	font-size: 40px;
+}
+
+.large { 
+   color: #00FF00; 
+   font-family:arial; 
+   font-size: 4pt; 
+}

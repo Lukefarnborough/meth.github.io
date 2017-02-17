@@ -1,0 +1,25 @@
+<html>
+<head>
+<title><h1>Methodologys</h1></title>
+</head>
+<body>
+<p>
+<p>
+<center><h2>Waterfall Cycle</h2></center>
+<p>
+<a href="/waterfall.html" </a>
+<p>
+<p>
+<center><h2>Agile</h2></center>
+<p>
+<a href="/agile.html" </a>
+<p>
+<p>
+<center><h2>RAD</h2></center>
+<p>
+<a href="/rad.html" </a>
+<div class="large"> 
+This is a DIV sample. 
+</div> 
+</body>
+</html>
